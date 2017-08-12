@@ -202,31 +202,3 @@
 
 ***
 
-## <a name="reference">&sect; 参考</a>
-* [Vue Demo][vue-demo]
-* [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
-* [探讨 React 项目目录结构](http://marmelab.com/blog/2015/12/17/react-directory-structure.html)
-
-[vue-cli]: https://github.com/vuejs/vue-cli
-[vue-cli-template]: http://vuejs-templates.github.io/webpack/structure
-[vue-demo]: https://github.com/kenberkeley/vue-demo
-[react-doc]: http://reactjs.cn/react/docs/getting-started-zh-CN.html
-[redux-doc]: http://camsong.github.io/redux-in-chinese/index.html
-[simple-tutorial]: https://github.com/kenberkeley/redux-simple-tutorial
-[react-router-doc]: http://react-guide.github.io/react-router-cn/
-[babel-repl]: http://babeljs.io/repl/
-[how-to-start]: https://github.com/kenberkeley/react-demo/issues/1
-[service-intro]: https://github.com/kenberkeley/vue-demo#service-layer
-[alias-intro]: https://github.com/kenberkeley/vue-demo#alias
-[createContainer]: https://github.com/kenberkeley/react-demo/blob/master/src/utils/createContainer.js
-[Navbar]: https://github.com/kenberkeley/react-demo/blob/master/src/components/Navbar/index.js
-[connect]: https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options
-[dan-post]: https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
-[chrome-extension]: https://github.com/zalmoxisus/redux-devtools-extension
-[devtools-component]: https://github.com/gaearon/redux-devtools
-[redux-logger]: https://github.com/evgenyrodionov/redux-logger
-[why-did-u-update]: https://github.com/garbles/why-did-you-update
-[hot-loader]: https://github.com/gaearon/react-hot-loader
-[react-optimize]: https://github.com/thejameskyle/babel-react-optimize
-[history]: https://github.com/ReactTraining/history
-[proptypes]: https://facebook.github.io/react/docs/reusable-components-zh-CN.html#prop-验证
